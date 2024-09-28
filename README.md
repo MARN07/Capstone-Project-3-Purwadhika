@@ -1,6 +1,6 @@
 # Capstone Project 3 - California Housing
 
-## A. Business Problem Understanding
+## Business Problem Understanding
 
 **Context**
 
