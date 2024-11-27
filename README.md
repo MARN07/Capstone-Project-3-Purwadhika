@@ -1,4 +1,4 @@
-# Capstone Project 3 - California Housing
+# Predictive Model for Real Estate Valuation in California
 
 ## Business Problem Understanding
 
